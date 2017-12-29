@@ -2,8 +2,17 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item android:id="@+id/itemNavShop"
-        android:title="@string/title_shop"
-        android:icon="@drawable/car"
+        android:title="@string/title_car"
+        android:icon="@drawable/icon_car"
         />
+    <item android:id="@+id/itemNavWatch"
+        android:title="@string/title_watch"
+        android:icon="@drawable/icon_watch"
+        />
+    <item android:id="@+id/itemNavMovie"
+        android:title="@string/title_moview"
+        android:icon="@drawable/icon_movie"
+        />
+
 
 </menu>

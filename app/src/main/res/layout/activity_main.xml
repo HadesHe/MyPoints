@@ -13,6 +13,7 @@
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
         ></FrameLayout>
     <android.support.design.widget.BottomNavigationView
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
@@ -22,6 +23,6 @@
         app:itemIconTint="@android:color/white"
         app:itemTextColor="@android:color/white"
         app:menu="@menu/navigation"
-        android:id="@+id/bottomNavigationView"></android.support.design.widget.BottomNavigationView>
+        android:id="@+id/bnvMain"></android.support.design.widget.BottomNavigationView>
 
 </android.support.design.widget.CoordinatorLayout>
