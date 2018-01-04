@@ -31,4 +31,10 @@ ext{
     buildToolsVersion = "26.0.2"
     minSdkVersion = 19
     targetSdkVersion = 26
+
+    okHttp3Version="3.9.1"
+    gsonVersion="2.8.2"
+    jUnitVersion="4.12"
+    mockWebServerVersion="3.9.1"
+    supportAppCompatVersion="26.1.0"
 }
